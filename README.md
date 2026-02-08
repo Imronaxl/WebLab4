@@ -480,21 +480,4 @@ After 24 hours, user must login again to receive a new token.
 **Group:** P3232  
 **Variant:** 32434212  
 **Subject:** Web Technologies Lab 4  
-
-## 📄 License
-
-This project is provided as-is for educational purposes.
-
-## 🤝 Contributing
-
-This is a laboratory assignment. Modifications should follow the assignment requirements and coding standards.
-
-## 📞 Support
-
-For issues or questions:
-1. Check the troubleshooting section above
-2. Review backend logs in console
-3. Check browser console and network tab in DevTools
-4. Verify database connectivity and configuration
-
 ---
