@@ -474,10 +474,3 @@ Ensure backend is configured with:
 ### JWT Token Expiration
 After 24 hours, user must login again to receive a new token.
 
-## 📝 Author & Attribution
-
-**Author:** Гулахмадзода Имрон  
-**Group:** P3232  
-**Variant:** 32434212  
-**Subject:** Web Technologies Lab 4  
----
