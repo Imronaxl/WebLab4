@@ -1,6 +1,5 @@
 # Lab 4 - Web Application for Point Verification on Coordinate Plane
 
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Java](https://img.shields.io/badge/Java-17-orange.svg)
 ![Angular](https://img.shields.io/badge/Angular-17-red.svg)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.2.3-green.svg)
